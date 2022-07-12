@@ -7,7 +7,7 @@ We're [tibush](https://tibush.com/), a creative startup from Germany! [^1]
 
 Here on GitHub, we're mostly working on our projects in private Repositories.
 
-Feel free to check out [tibush labs](https://tibushlabs.de/), [SpaceHey](https://spacehey.com/), or one of our other projects!
+Feel free to check out [tibush labs](https://tibush.com/labs), [SpaceHey](https://spacehey.com/), or one of our other projects!
 
 [^1]:
     [Imprint](https://tibush.com/imprint)
